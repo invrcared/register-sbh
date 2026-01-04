@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "ava": "^6.4.1",
+    "fs-extra": "^11.3.3"
+  },
+  "scripts": {
+    "test": "npx ava tests/*.test.js"
+  }
+}
